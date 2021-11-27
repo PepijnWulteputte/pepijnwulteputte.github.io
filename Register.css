@@ -90,6 +90,12 @@
   font-weight: 700;
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: linear-gradient(to right, #1ece00, #106b00);
+  border-style: none;
+  font-weight: 700;
+}
+
 .u-section-1 .u-image-1 {
   min-height: 655px;
   pointer-events: auto;

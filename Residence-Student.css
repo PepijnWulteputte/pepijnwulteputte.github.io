@@ -46,6 +46,7 @@
 .u-section-1 .u-text-1 {
   background-image: none;
   font-size: 1.875rem;
+  font-weight: 700;
   margin: 56px 7px 0 14px;
 }
 
@@ -65,6 +66,16 @@
 
 .u-section-1 .u-form-group-3 {
   margin-left: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: linear-gradient(to right, #169400, #106b00);
+  border-style: none;
+  font-weight: 700;
 }
 
 @media (max-width: 1199px) {

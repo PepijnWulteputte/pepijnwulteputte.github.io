@@ -13,6 +13,7 @@
   pointer-events: auto;
   background-image: url("images/HuismetLabels.png");
   background-position: 50% 50%;
+  animation-duration: 1000ms;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -46,6 +47,8 @@
 
 .u-section-1 .u-btn-1 {
   border-style: none;
+  background-image: none;
+  font-weight: 700;
 }
 
 .u-section-1 .u-text-3 {
@@ -56,6 +59,8 @@
   font-size: 1rem;
   letter-spacing: 1px;
   border-style: none;
+  background-image: none;
+  font-weight: 700;
   margin: 16px auto 0 25px;
 }
 
